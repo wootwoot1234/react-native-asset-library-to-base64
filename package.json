@@ -1,0 +1,22 @@
+{
+  "name": "react-native-asset-library-to-base64",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wootwoot1234/react-native-asset-library-to-base64.git"
+  },
+  "version": "0.0.1",
+  "description": "A React Native Module that takes an image's asset-library:// uri and returns base64.",
+  "author": "Tom Krones (wootwoot1234)",
+  "contributors": [
+  ],
+  "nativePackage": true,
+  "keywords": [
+    "react-native",
+    "react-native-asset-library-to-base64",
+    "react",
+    "native",
+    "asset",
+    "library",
+    "base64"
+  ]
+}
