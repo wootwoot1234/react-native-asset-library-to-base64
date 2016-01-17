@@ -4,7 +4,7 @@ A React Native Module that takes an image's asset-library:// uri and returns bas
 ## Install
 
 ### iOS
-1. `npm install react-native-asset-library-to-base64@latest --save`
+1. `npm install --save wootwoot1234/react-native-asset-library-to-base64`
 2. In the XCode's "Project navigator", right click on your project's Libraries folder ➜ `Add Files to <...>`
 3. Go to `node_modules` ➜ `react-native-asset-library-to-base64` ➜ `ios` ➜ select `AssetLibraryToBase64.m`
 4. Make sure `AssetLibraryToBase64.m` is listed under 'Compile Sources' in your project's 'Build Phases' tab
