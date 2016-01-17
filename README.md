@@ -24,3 +24,5 @@ ReadImageData.readImage(uri, (imageBase64) => {
   console.log(imageBase64);
 });
   ```
+## Source
+This code was copied from https://github.com/scottdixon/react-native-upload-from-camera-roll/blob/master/RCTCustom.m and https://medium.com/@scottdixon/react-native-creating-a-custom-module-to-upload-camera-roll-images-7a3c26bac309#.xckz6wr87.  I just took the example and turned it into a module for ease of use.
