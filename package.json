@@ -4,7 +4,7 @@
     "type": "git",
     "url": "git+https://github.com/wootwoot1234/react-native-asset-library-to-base64.git"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A React Native Module that takes an image's asset-library:// uri and returns base64.",
   "author": "Tom Krones (wootwoot1234)",
   "contributors": [],
